@@ -23,8 +23,8 @@ $(".btn").click(function () {
     playSound(userChosenColor);
     animatePress(userChosenColor);
 
-      // checkAnswer after a user has chosen their answer, 
-      // passing in the index of the last answer in the user's sequence.
+    // check answer after a user has chosen their answer, 
+    // passing in the index of the last answer in the user's sequence.
     checkAnswer(userClickedPattern.length-1);
 });
 
