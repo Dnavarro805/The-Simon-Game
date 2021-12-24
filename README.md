@@ -3,7 +3,7 @@ Modeled after the Simon game, users can interactively play the game online where
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript.
+**Client:** HTML, CSS, jQuery.
 
 ## Run Locally
 
